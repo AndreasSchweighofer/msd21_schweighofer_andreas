@@ -29,12 +29,12 @@
 
 ## Description
 
-`git config`: command used for specifying git configuration settings \
-`git init`: with this command you start tracking your project, creates a subdirectory .git \
-`git commit`: with this command the files are transfered from the staging area to repository \
-`git status`: shows the states in which the files in the working directory are (staged files, not tracked files...) \
-`git add`: move files to the staging area in order to commit them later \
-`git log`: history of commits that happened with author and dates \
-`git diff`: shows current changes and staged changes that are ready to commit, lists changes in files \
-`git pull`: update your current working directory with the latest changes from the server \
+`git config`: command used for specifying git configuration settings\
+`git init`: with this command you start tracking your project, creates a subdirectory .git\
+`git commit`: with this command the files are transfered from the staging area to repository\
+`git status`: shows the states in which the files in the working directory are (staged files, not tracked files...)\
+`git add`: move files to the staging area in order to commit them later\
+`git log`: history of commits that happened with author and dates\
+`git diff`: shows current changes and staged changes that are ready to commit, lists changes in files\
+`git pull`: update your current working directory with the latest changes from the server\
 `git push`: command to transfer commits between local and remote repository

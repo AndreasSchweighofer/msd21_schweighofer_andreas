@@ -31,8 +31,11 @@ Contributions are always welcomed. Just contact me via mail, and we can discuss 
 
 ## Author
 Andreas Schweighofer\
-[Contact Me](mailto:and.schweighofer@icloud.com)
+[Contact Me](mailto:and.schweighofer@icloud.com)\
+[FH Joanneum](https://www.fh-joanneum.at)\
+[GitHub page - Andreas Schweighofer](https://github.com/AndreasSchweighofer)
 
 **Links to other Exercises:**\
 [exercise1](exercise1.md)\
 [exercise2](exercise2.md)
+
