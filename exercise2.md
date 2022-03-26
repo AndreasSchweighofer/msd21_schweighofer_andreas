@@ -24,8 +24,8 @@
 - the option -m allows you to include an inline-message related to the commit
 
 3. .gitignore file
-- before committing the .gitignore file it is listed in "Unversionierte Dateien" (using git status)
-- after committing it's not listed in this section anymore
+- before committing the .gitignore file, the .html-file and .pdf-file is listed in "Unversionierte Dateien" (using git status)
+- after committing they are not listed in this section anymore
 
 ## Description
 
