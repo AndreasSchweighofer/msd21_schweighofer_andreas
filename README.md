@@ -34,4 +34,5 @@ Andreas Schweighofer\
 [Contact Me](mailto:and.schweighofer@icloud.com)
 
 **Links to other Exercises:**\
-[exercise1](exercise1.md)
+[exercise1](exercise1.md)\
+[exercise2](exercise2.md)
