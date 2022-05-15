@@ -55,4 +55,18 @@ public class Test {
         Assertions.assertEquals(result, calc.divide(40, 2));
     }
 
+    @org.junit.jupiter.api.Test
+    public void testFactorialWith6() {
+        Assertions.assertEquals(720, calc.factorial(6));
+    }
+
+    @org.junit.jupiter.api.Test
+    public void testFactorialWith8() {
+        Assertions.assertEquals(40320, calc.factorial(8));
+    }
+
+    @org.junit.jupiter.api.Test
+    public void testFactorialWith0() {
+        Assertions.assertEquals(1, calc.factorial(0));
+    }
 }
