@@ -69,4 +69,9 @@ public class Test {
     public void testFactorialWith0() {
         Assertions.assertEquals(1, calc.factorial(0));
     }
+
+    @org.junit.jupiter.api.Test
+    public void testFactorialWithNegative2() {
+        Assertions.assertEquals(0, calc.factorial(-2));
+    }
 }

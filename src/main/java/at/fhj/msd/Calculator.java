@@ -32,8 +32,8 @@ public class Calculator {
         if (num < 0)
             return 0;
         else if (num == 0 || num == 1)
-            return 0; //1;
+            return 1;
         else
-            return 0; //num * factorial(num - 1);
+            return num * factorial(num - 1);
     }
 }
