@@ -5,14 +5,14 @@
 - Additionally, there was created the **generated-sources** directory, also as a sub-directory in target.
 
 
-![directory: target](Screenshots/target-directory.png)
+![directory: target](resources/images/target-directory.png)
 
-![directory: target](Screenshots/target-directory2.png)
+![directory: target](resources/images/target-directory2.png)
 
 ## Screenshot mvn-compile
 
-![compile](Screenshots/mvn-compile.png)
+![compile](resources/images/mvn-compile.png)
 
 ## Screenshot execution of main class
 
-![execute main](Screenshots/execute-main.png)
+![execute main](resources/images/execute-main.png)
