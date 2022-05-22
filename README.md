@@ -35,6 +35,9 @@ Andreas Schweighofer\
 [FH Joanneum](https://www.fh-joanneum.at)\
 [GitHub page - Andreas Schweighofer](https://github.com/AndreasSchweighofer)
 
+**Templates**\
+[Template log4j2](src/main/resources/log4j2.xml.template)
+
 **Links to other Exercises:**\
 [exercise1](exercise1.md)\
 [exercise2](exercise2.md)\
