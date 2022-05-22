@@ -3,6 +3,8 @@ package at.fhj.msd;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
 public class Test {
     private Calculator calc;
 
@@ -53,6 +55,13 @@ public class Test {
     public void testDivide20() {
         int result = 40 / 2;
         Assertions.assertEquals(result, calc.divide(40, 2));
+    }
+
+    @org.junit.jupiter.api.Test
+    public void testDivide0() {
+        assertThrows(ArithmeticException.class, () -> {
+            calc.divide(5, 0);
+        });
     }
 
     @org.junit.jupiter.api.Test
