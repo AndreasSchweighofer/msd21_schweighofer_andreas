@@ -10,8 +10,20 @@ package at.fhj.msd;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * Main Class
+ * @author andreasschweighofer
+ */
 public class Main {
+    /**
+     * Logger
+     */
     private static Logger logger = LogManager.getLogger();
+
+    /**
+     * Main Method
+     * @param args arguments
+     */
     public static void main(String[] args) {
         Calculator calc = new Calculator();
         System.out.println(calc.add(3,2));
